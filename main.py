@@ -1,1 +1,0 @@
-print("Tri oc cho")
