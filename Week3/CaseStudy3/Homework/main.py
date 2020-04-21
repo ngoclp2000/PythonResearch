@@ -1,4 +1,4 @@
-import numpy as np, random, scipy.stats as ss, pandas as pd, sklearn.preprocessing
+import numpy as np, random, scipy.stats as ss, pandas as pd
 
 def majority_vote_fast(votes):
     mode, count = ss.mstats.mode(votes)
